@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-MX1010A&color=black)
+![](https://komarev.com/ghpvc/?username=your-github-MX1010A&color=green)
 
 <code>Student: KPI FICT / PW WEiTI </code><br>
 <code>Speciality: Software Engineering</code><br>
