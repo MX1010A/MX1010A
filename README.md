@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**MX1010A/MX1010A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=your-github-MX1010A&color=grey)
 
-Here are some ideas to get you started:
+<code>Student: KPI FICT / PW WEiTI </code>
+<code>Speciality: Software Engineering</code><br>
+<code>Specialization: Unity|C# Developer</code><br>
+<code>Also worked with: C++, Python, JavaScript</code><br>
+<code>[LinkedIn]()</code>
+<code>[E-Mail](mailto:canonan.q@gmail.com)</code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MX1010A&theme=chartreuse-dark&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MX1010A&theme=chartreuse-dark)
