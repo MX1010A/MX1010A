@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-MX1010A&color=grey)
+![](https://komarev.com/ghpvc/?username=your-github-MX1010A&color=black)
 
-<code>Student: KPI FICT / PW WEiTI </code>
+<code>Student: KPI FICT / PW WEiTI </code><br>
 <code>Speciality: Software Engineering</code><br>
 <code>Specialization: Unity|C# Developer</code><br>
 <code>Also worked with: C++, Python, JavaScript</code><br>
