@@ -6,6 +6,7 @@
 <code>Speciality: Software Engineering</code><br>
 <code>Specialization: Unity|C# Developer</code><br>
 <code>Also worked with: C++, Python, JavaScript</code><br>
+<code>Collaborated with @ubeet</code><br>
 <code>[LinkedIn]()</code>
 <code>[E-Mail](mailto:canonan.q@gmail.com)</code>
 
