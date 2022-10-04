@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-MX1010A&color=green)
 
-<code>Student: KPI FICT / PW WEiTI </code><br>
+<code>Student: PW WEiTI </code><br>
 <code>Speciality: Software Engineering</code><br>
 <code>Specialization: Unity|C# Developer</code><br>
 <code>Also worked with: C++, Python, JavaScript</code><br>
