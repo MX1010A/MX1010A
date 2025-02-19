@@ -11,5 +11,3 @@
 <code>[E-Mail](mailto:canonan.q@gmail.com)</code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MX1010A&theme=chartreuse-dark&layout=compact)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MX1010A&theme=chartreuse-dark)
