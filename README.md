@@ -4,7 +4,7 @@
 
 <code>Student: WUT WEiTI </code><br>
 <code>Speciality: Software Engineering</code><br>
-<code>Specialization: Unity|C# Developer</code><br>
+<code>Specialization: Game Developer & Tester</code><br>
 <code>Also worked with: C++, Python, JavaScript</code><br>
 <code>Collaborated in https://github.com/ubeet/DungeonMaster</code><br>
 <code>[LinkedIn]()</code>
